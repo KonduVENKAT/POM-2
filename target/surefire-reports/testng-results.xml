@@ -1,81 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="50258" started-at="2020-11-04T07:19:47Z" finished-at="2020-11-04T07:20:37Z">
+  <suite name="Suite" duration-ms="51361" started-at="2020-11-05T12:05:16Z" finished-at="2020-11-05T12:06:08Z">
     <groups>
     </groups>
-    <test name="MyPageTest" duration-ms="50258" started-at="2020-11-04T07:19:47Z" finished-at="2020-11-04T07:20:37Z">
+    <test name="MyPageTest" duration-ms="51361" started-at="2020-11-05T12:05:16Z" finished-at="2020-11-05T12:06:08Z">
       <class name="LinkedInTestPages.MyPageTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeSuite" is-config="true" duration-ms="9" started-at="2020-11-04T07:19:47Z" finished-at="2020-11-04T07:19:47Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeSuite" is-config="true" duration-ms="11" started-at="2020-11-05T12:05:16Z" finished-at="2020-11-05T12:05:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-11-04T07:19:47Z" finished-at="2020-11-04T07:19:47Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-11-05T12:05:16Z" finished-at="2020-11-05T12:05:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeClass" is-config="true" duration-ms="879" started-at="2020-11-04T07:19:47Z" finished-at="2020-11-04T07:19:48Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeClass" is-config="true" duration-ms="3086" started-at="2020-11-05T12:05:16Z" finished-at="2020-11-05T12:05:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-04T07:19:48Z" finished-at="2020-11-04T07:19:48Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-05T12:05:19Z" finished-at="2020-11-05T12:05:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="googleHomePageTest()[pri:1, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="googleHomePageTest" duration-ms="544" started-at="2020-11-04T07:19:48Z" finished-at="2020-11-04T07:19:49Z">
+        <test-method status="PASS" signature="googleHomePageTest()[pri:1, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="googleHomePageTest" duration-ms="527" started-at="2020-11-05T12:05:19Z" finished-at="2020-11-05T12:05:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleHomePageTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-04T07:19:49Z" finished-at="2020-11-04T07:19:49Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-05T12:05:20Z" finished-at="2020-11-05T12:05:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-04T07:19:49Z" finished-at="2020-11-04T07:19:49Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-05T12:05:20Z" finished-at="2020-11-05T12:05:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="linkedInSignPageTest()[pri:2, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="linkedInSignPageTest" duration-ms="15159" started-at="2020-11-04T07:19:49Z" finished-at="2020-11-04T07:20:04Z">
+        <test-method status="PASS" signature="linkedInSignPageTest()[pri:2, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="linkedInSignPageTest" duration-ms="12424" started-at="2020-11-05T12:05:20Z" finished-at="2020-11-05T12:05:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- linkedInSignPageTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-04T07:20:04Z" finished-at="2020-11-04T07:20:04Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-05T12:05:32Z" finished-at="2020-11-05T12:05:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-04T07:20:04Z" finished-at="2020-11-04T07:20:04Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="userHomePageTest()[pri:3, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="userHomePageTest" duration-ms="8212" started-at="2020-11-04T07:20:04Z" finished-at="2020-11-04T07:20:12Z">
+        <test-method status="PASS" signature="userHomePageTest()[pri:3, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="userHomePageTest" duration-ms="8119" started-at="2020-11-05T12:05:32Z" finished-at="2020-11-05T12:05:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userHomePageTest -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-11-04T07:20:12Z" finished-at="2020-11-04T07:20:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="userHomePageDown()[pri:4, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="userHomePageDown" duration-ms="20313" started-at="2020-11-04T07:20:12Z" finished-at="2020-11-04T07:20:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- userHomePageDown -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-04T07:20:12Z" finished-at="2020-11-04T07:20:12Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-05T12:05:32Z" finished-at="2020-11-05T12:05:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-11-04T07:20:32Z" finished-at="2020-11-04T07:20:32Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-05T12:05:40Z" finished-at="2020-11-05T12:05:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterClass" is-config="true" duration-ms="5114" started-at="2020-11-04T07:20:32Z" finished-at="2020-11-04T07:20:37Z">
+        <test-method status="PASS" signature="userHomePageDown()[pri:4, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="userHomePageDown" duration-ms="20387" started-at="2020-11-05T12:05:40Z" finished-at="2020-11-05T12:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userHomePageDown -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-05T12:05:40Z" finished-at="2020-11-05T12:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-11-05T12:06:01Z" finished-at="2020-11-05T12:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-05T12:06:01Z" finished-at="2020-11-05T12:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="userLinkedInDetailsTest()[pri:5, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="userLinkedInDetailsTest" duration-ms="1720" started-at="2020-11-05T12:06:01Z" finished-at="2020-11-05T12:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLinkedInDetailsTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-05T12:06:03Z" finished-at="2020-11-05T12:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterClass" is-config="true" duration-ms="5062" started-at="2020-11-05T12:06:03Z" finished-at="2020-11-05T12:06:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-11-04T07:20:37Z" finished-at="2020-11-04T07:20:37Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-11-05T12:06:08Z" finished-at="2020-11-05T12:06:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-11-04T07:20:37Z" finished-at="2020-11-04T07:20:37Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:LinkedInTestPages.MyPageTest@4df828d7]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-11-05T12:06:08Z" finished-at="2020-11-05T12:06:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

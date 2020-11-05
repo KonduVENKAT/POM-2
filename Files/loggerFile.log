@@ -52,3 +52,31 @@ INFO main POM-2 - **************************************************************
 INFO main POM-2 - Broser is going to close 
 INFO main POM-2 - Browser is closed for this run time is 5 Nov 2020 -Time 11:48:11-AM
 INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 5 Nov 2020 -Time 17:35:16-PM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (8) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 5 Nov 2020 -Time 17:35:16-PM
+INFO main POM-2 - *************************************************************************

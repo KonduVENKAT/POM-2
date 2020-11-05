@@ -43,7 +43,7 @@ public class UserHomePage {
 	WebElement userIcon; // for this I Have to  add the thing 
  	
 	
-	@FindBy(id="ember38") // this is also not working
+	@FindBy(id="ember36") // this is also not working
 	@CacheLookup
 	WebElement userIconID;    //These three condition not working 
 	//----------------------------------------------------------------
@@ -238,20 +238,20 @@ public class UserHomePage {
 	{
 		
 		logg.info("**************************************************************");
-		logg.info("********I am goint to lounch UserLinkedDetails Page **********");
+		logg.info("******** I am goint to lounch UserLinkedDetails Page **********");
 		logg.info("**************************************************************");
 		UserHomePage uhp=userHomePage;// pass the userHomePage reference 
 		
-		if(uhp.userIcon.isDisplayed())
+		if(uhp.userIconID.isDisplayed())
 		{
 			System.out.println("User Icon is displayed and I want to click on thet element ");
 			
-			uhp.userIcon.click();
-			logg.info("UserIcon is displayed and I clicked for go to the UserLinkedInDetails");
+			uhp.userIconID.click();
+			logg.info("UserIconID is displayed and I clicked for go to the UserLinkedInDetails");
 						// click on viewProfile
 			//After do some operations 
 			
-		WebElement viewProfile=lDriver.findElement(By.xpath(""));
+		WebElement viewProfile=lDriver.findElement(By.xpath("//div[@id='ember40']")); // check this is working or not 
 		
 			if(viewProfile.isDisplayed())
 			{
@@ -269,8 +269,8 @@ try {Thread.sleep(1000);} catch (InterruptedException e) {e.printStackTrace();}
 				
 		}else
 		{
-			System.out.println("User Icon is Not displayed");
-			logg.info("UserIcon in UserHomePage is not displayed and not able to interact check this ");
+			System.out.println("UserIconID is Not displayed");
+			logg.info("UserIconID  in UserHomePage is not displayed and not able to interact check this ");
 		}
 		
 		return new UserLinkedInDetails(lDriver,logg); // this is possible check this where I have to specify 
