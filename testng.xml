@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="MyPageTest"> <!--  Check here thread count is 5 is or 1 I will check later on  -->
+    <classes>
+    <!--   <class name="LinkedInPages.UserHomePage"/>
+      <class name="testMySelf.LogingTest001"/>
+     
+      -->
+      <class name="LinkedInTestPages.MyPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+<!--  working fine  -->
+<!--  later on I will update Assertion thing  -->

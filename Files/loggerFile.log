@@ -1,0 +1,54 @@
+INFO main POM-2 - chrome - Browser is launched 4 Nov 2020 -Time 9:31:32-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 4 Nov 2020 -Time 9:31:32-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 4 Nov 2020 -Time 9:33:7-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 4 Nov 2020 -Time 9:33:7-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 4 Nov 2020 -Time 12:17:57-PM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 4 Nov 2020 -Time 12:17:57-PM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 4 Nov 2020 -Time 12:49:47-PM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 4 Nov 2020 -Time 12:49:47-PM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 5 Nov 2020 -Time 11:48:11-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ********I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 5 Nov 2020 -Time 11:48:11-AM
+INFO main POM-2 - *************************************************************************
