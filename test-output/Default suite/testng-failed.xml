@@ -7,13 +7,16 @@
         <methods>
           <include name="userLinkedInDetailsTest"/>
           <include name="afterTest"/>
+          <include name="linkedInSignPageTest"/>
           <include name="beforeSuite"/>
           <include name="afterMethod"/>
           <include name="beforeMethod"/>
+          <include name="userHomePageDown"/>
           <include name="beforeTest"/>
           <include name="beforeClass"/>
           <include name="afterSuite"/>
           <include name="afterClass"/>
+          <include name="userHomePageTest"/>
         </methods>
       </class> <!-- LinkedInTestPages.MyPageTest -->
     </classes>

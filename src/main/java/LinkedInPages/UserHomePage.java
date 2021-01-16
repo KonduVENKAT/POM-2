@@ -42,10 +42,18 @@ public class UserHomePage {
 	@CacheLookup
 	WebElement userIcon; // for this I Have to  add the thing 
  	
-	
-	@FindBy(id="ember36") // this is also not working
+
+	@FindBy(id="ember37") // I'm checking this   
 	@CacheLookup
-	WebElement userIconID;    //These three condition not working 
+	WebElement userIconID;
+	/*
+	 * @FindBy()
+	 * 
+	 * @CacheLookup WebElement
+	 */
+	@FindBy(id="ember36") // this is clicking in Work in menu Bar inLinkedIn
+	@CacheLookup
+	WebElement menuBar;    //These three condition not working 
 	//----------------------------------------------------------------
 	@FindBy(id="//div[@id='ember39']")
 	@CacheLookup

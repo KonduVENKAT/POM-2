@@ -5,8 +5,7 @@
     <classes>
     <!--   <class name="LinkedInPages.UserHomePage"/>
       <class name="testMySelf.LogingTest001"/>
-     
-      -->
+     -->
       <class name="LinkedInTestPages.MyPageTest"/>
     </classes>
   </test> <!-- Test -->

@@ -80,3 +80,1030 @@ INFO main POM-2 - Title is tested
 INFO main POM-2 - Broser is going to close 
 INFO main POM-2 - Browser is closed for this run time is 5 Nov 2020 -Time 17:35:16-PM
 INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 5 Nov 2020 -Time 19:9:30-PM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (8) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 5 Nov 2020 -Time 19:9:30-PM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 6 Nov 2020 -Time 8:23:48-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 6 Nov 2020 -Time 8:23:48-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 6 Nov 2020 -Time 8:24:18-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (11) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 6 Nov 2020 -Time 8:24:18-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 6 Nov 2020 -Time 9:1:13-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (11) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 6 Nov 2020 -Time 9:1:13-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 6 Nov 2020 -Time 9:36:32-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 6 Nov 2020 -Time 9:36:32-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 6 Nov 2020 -Time 9:42:52-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (11) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 6 Nov 2020 -Time 9:42:52-AM
+INFO main POM-2 - *************************************************************************
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:6:30-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:10:44-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:12:16-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 8:12:16-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:16:23-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 8:16:23-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:22:33-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 8:22:33-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:30:16-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 8:30:16-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 8:35:13-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 8:35:13-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 9:34:53-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 9:34:53-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 9:35:15-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 9:35:15-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 10:2:46-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 10:2:46-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 10:9:36-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 10:9:36-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 10:21:18-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 10:21:18-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 10:23:47-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 10:23:47-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+INFO main POM-2 - chrome - Browser is launched 7 Nov 2020 -Time 10:59:52-AM
+INFO main POM-2 -  Borwser is passed to  launch the chrome
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ***** GoogleHomePage class object is created  **************
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - GoogleHomePage object is created 
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - ******* LinkedinSignPage class object is created ***********
+INFO main POM-2 - ************************************************************
+INFO main POM-2 - LinkedInLogInSite page obeject is created 
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - ****** UserHomePage class Object is created *********
+INFO main POM-2 - *****************************************************
+INFO main POM-2 - UserHomePage object is created 
+INFO main POM-2 - User Home page is down the page up to 10 times 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - ******** I am goint to lounch UserLinkedDetails Page **********
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - UserIconID is displayed and I clicked for go to the UserLinkedInDetails
+INFO main POM-2 - ViewProfile inside the UserIcon list is displayed I want to clicked thet viewProfile element 
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - **** UserLinkedInDetails class object is created *************
+INFO main POM-2 - **************************************************************
+INFO main POM-2 - (15) LinkedIn  Title of the page found by 
+INFO main POM-2 - Title is tested 
+INFO main POM-2 - Broser is going to close 
+INFO main POM-2 - Browser is closed for this run time is 7 Nov 2020 -Time 10:59:52-AM
+INFO main POM-2 - *************************************************************************
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+DEBUG main freemarker.cache - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+DEBUG main freemarker.cache - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+DEBUG main freemarker.cache - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/home/venkat/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"

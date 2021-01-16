@@ -1,6 +1,7 @@
 package LinkedInTestPages;
 
 import java.io.File;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -35,6 +36,7 @@ import LinkedInPages.LinkedinSignPage;
 import LinkedInPages.SiteMenuBar;
 import LinkedInPages.UserHomePage;
 import LinkedInPages.UserLinkedInDetails;
+import customListeners.ExtentReport;
 
 public class LinkedInBaseTest {
 	String screenshotFolder="./Screenshots/";
@@ -65,7 +67,6 @@ public class LinkedInBaseTest {
 	public JavascriptExecutor jse;
 	
 	public static Logger logger; // this is created at @BeforeClass level  initiate later on .
-									// before init() initialization I have to declare 
  	
 	public Properties prop;   
 	
@@ -82,14 +83,14 @@ public class LinkedInBaseTest {
 	{
 		date=getCurrentDateTime();// this will execute only once per execution 
 		screenshotDate=date;
-		System.out.println("*********************************************");
-		System.out.println(" ----- -- Date and Time is "+date+"  ------- ");
+		System.out.println("******************************************************************");
+		System.out.println(" ---------------   Date and Time is "+date+"  ------------------- ");
 		System.out.println("see failure images in this Screenshots folder --"+date+" --  here ");
-		System.out.println("*********************************************");
-		
+		System.out.println("******************************************************************");
 		File file=new File(propFileLoc);
 		FileInputStream fis;	
 		
+			
 		try {fis=new FileInputStream(file); System.out.println("  -----   Propertes file is loaded  ------- ");
 			System.out.println("Properties file is loaded ");
 			prop=new Properties();
@@ -149,11 +150,16 @@ public class LinkedInBaseTest {
 	public void beforeSuite()
 	{
 		System.out.println("\t --@BeforeSuite --");
+		// I will call one class for Extnent Report for generating Html Report 
+	
+		
 	}
 	@AfterSuite
 	public void afterSuite()
 	{
 		System.out.println("\t  --@AfterSuite --");
+	// Here I want to close the Report 
+	
 	}
 	@BeforeTest
 	public void beforeTest() 
@@ -180,6 +186,7 @@ public class LinkedInBaseTest {
 		
 		initialization("chrome"); // late on pass this value form method level By passing parameters 
 		logger.info(" Borwser is passed to  launch the chrome");
+		driver.manage().window().maximize();
 	/*
 		logger.info("message", t);
 		

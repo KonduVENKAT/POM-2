@@ -85,6 +85,7 @@ public class MyPageTest extends LinkedInBaseTest{
 		uhp.userHomePageDown(jse);
 		System.out.println("user home page is down the page ");
 		logger.info("User Home page is down the page up to 10 times ");
+		Assert.assertTrue(false,"Intesnsionally I faail this test case ");
 	
 	}
 	
@@ -100,7 +101,7 @@ public class MyPageTest extends LinkedInBaseTest{
 		uld.pageTitleTest();
 		logger.info("Title is tested ");
 		uld.addProfileSelectionDropDown();
-		
+		Assert.assertTrue(false, "I deliberately failed the test Case ");
 	}
 	
 	
